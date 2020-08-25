@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="Spring-boot-1/Hibernate" uuid="5dc6b511-1746-4a3c-a127-7f8d0e186be0">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>Hibernate</remarks>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/spring-data?useUnicode=yes&amp;characterEncoding=UTF-8&amp;serverTimezone=UTC</jdbc-url>
+    </data-source>
+  </component>
+</project>
